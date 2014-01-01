@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: Probably - Seds elemental
+## Notes: ProbablyEngine Custom Elemental Shaman
+## Dependencies: Probably
+
+rotation.lua
