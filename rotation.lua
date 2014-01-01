@@ -23,7 +23,7 @@ ProbablyEngine.rotation.register_custom(262, "Seds elemental", {
 {"2825", "modifier.rcontrol"},
 
 --Ancestral Guidance
-{"108281", "modifier.lalt"},
+{"108281", "modifier.lshift"},
 
 --Spiritwalkers grace
 {"79206", "modifier.ralt"},
