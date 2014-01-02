@@ -6,7 +6,6 @@ ProbablyEngine.rotation.register_custom(262, "Seds elemental", {
 --Self def//heal
 {"108270", "player.health < 65"},
 {"8004", "player.health < 60"},
-{"8004", "lowest.health < 60"},
 
 --Aoe rotation
 {"421", "modifier.lalt"},
@@ -32,7 +31,6 @@ ProbablyEngine.rotation.register_custom(262, "Seds elemental", {
 {"108270", "modifier.lcontrol"},
 
 --Earthquake
---{"32686", "modifier.rshift", "ground"},
 {"61882", "modifier.rshift", "ground"},
 
 --Cds
