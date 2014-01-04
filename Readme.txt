@@ -12,3 +12,6 @@ left control
 
 --Earthquake
 right shift
+
+--Aoe rotation
+hold down left alt
