@@ -60,6 +60,11 @@ ProbablyEngine.rotation.register_custom(262, "Seds elemental", {
 },{
 { "36936", { "player.totem(3599)" }},
 
+--Flametongue
+{"8024", "!player.enchant.mainhand"},
+--Lightning shield
+{"324", "!player.buff(324)"},
+
 })
 
 
