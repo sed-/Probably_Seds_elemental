@@ -5,7 +5,7 @@ ProbablyEngine.rotation.register_custom(262, "Seds elemental", {
 
 --Self def//heal
 {"108270", "player.health < 65"},
-{"8004", "player.health < 60"},
+--{"8004", "player.health < 60"},
 
 --Aoe rotation
 {"421", "modifier.lalt"},
